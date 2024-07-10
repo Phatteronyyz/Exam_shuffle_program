@@ -1,1 +1,1 @@
-A program to random quiz for first year students.
+A program to random quiz for freshman.
