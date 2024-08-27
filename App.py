@@ -4,16 +4,16 @@ from component import color
 from component import font
 import random
 
-bronzeCorrection = ['https://classroom.github.com/a/oiH8Tbud', 'https://classroom.github.com/a/R0raKyMz', 'https://classroom.github.com/a/bWeOuKr7']
-bronzeLogic = ['https://classroom.github.com/a/joZLxGtF', 'https://classroom.github.com/a/0JMlcZ7j']
-bronzeClass = ['https://classroom.github.com/a/534dG52Q', 'https://classroom.github.com/a/5tbRzc0c', 'https://classroom.github.com/a/IOHwqrw7']
+bronzeCorrection = []
+bronzeLogic = []
+bronzeClass = []
 
-silverCorrection = ['https://classroom.github.com/a/WbSGQ3uM', 'https://classroom.github.com/a/B4pK8erT']
-silverLogic = ['https://classroom.github.com/a/8V3OfjZB']
-silverClass = ['https://classroom.github.com/a/0qH9XJkw', 'https://classroom.github.com/a/PP2j_8gv']
+silverCorrection = []
+silverLogic = []
+silverClass = []
 
-goldLogic = ['']
-goldClass = ['https://classroom.github.com/a/FUTju4YF']
+goldLogic = []
+goldClass = []
 
 class MyApp(Tk):
     def __init__(self):
